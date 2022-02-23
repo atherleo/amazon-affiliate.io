@@ -1,1 +1,1 @@
-# amazon-affiliate.io
+# amazon-affiliate.github.io
